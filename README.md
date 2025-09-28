@@ -71,30 +71,6 @@ Dream Travel Designed with ❤️ using HTML
 🛠️ Technologies Used
 HTML5 → Structure and content
 
-Basic formatting tags → <b>, <i>, <u>, <strike>
-
-Media → <img> for images
-
-Navigation → <a> hyperlinks
-
-Lists → <ol>, <ul>, <dl>
-
-Tables → <table> for packages
-
-📌 Learning Outcomes
-By creating this project, you will understand:
-
-How to structure a valid HTML5 document.
-
-The use of headings, text formatting, and line breaks.
-
-How to insert images and links.
-
-Creating ordered, unordered, and definition lists.
-
-Building a table with headers and data.
-
-Adding an internal jump link and an external link.
 
 Designing a simple footer.
 
